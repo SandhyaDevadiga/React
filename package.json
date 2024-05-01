@@ -1,0 +1,20 @@
+{
+  "name": "namaste_react",
+  "version": "1.0.0",
+  "description": "this is namasthe react",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html"
+  },
+  "author": "Sandhya",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.3.1"
+  }
+}
